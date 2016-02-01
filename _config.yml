@@ -1,18 +1,28 @@
-analytics: {}
+name: RethinkTech
+favicon: null
+layout_spectrum: 0.25949
+typography_spectrum: 0.52956
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#ffffff'
-    - '#000000'
-    - '#575757'
-    - '#169ccf'
-    - '#5ebbde'
+    - '#040404'
+    - '#0f405f'
+    - '#929292'
+    - '#01afdc'
   brandStrength: 0.875
   lightness: 0.25
-  rhythmicContrast: 0.971217
   saturation: 0
-cta: {}
-layout_spectrum: 0.25949
-name: RethinkTech
-opengraph: {}
+  rhythmicContrast: 0.971217
 purpose: []
-typography_spectrum: 0.52956
