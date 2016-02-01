@@ -4,18 +4,11 @@
         <description><![CDATA[Technology.Gaming.Life]]></description>
         <link>https://thegrid.ai/rethinktech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 05:53:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2016 05:53:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rethinktech/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Apple Pay and Android Pay are coming to ATMs in the US this year]]></title>
-            <description><![CDATA[<article><h1>Apple Pay and Android Pay are coming to ATMs in the US this year</h1><p>Contactless ATMs have been available in countries like Spain and Canada for some time, but they haven't made their way to the US. That will soon change, thanks to the proliferation of mobile payment services like Apple Pay and Android Pay, banks have begun the process of bringing contactless ATM capabilities to the US.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5426c18178e5fd0846a16e1d47dea6bc5718d092.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/1/28/10863914/apple-pay-android-pay-coming-to-atm-us-this-year</link>
-            <guid isPermaLink="false">71381bf3-b29e-4550-b5d4-eff030ce8370</guid>
-            <pubDate>Mon, 01 Feb 2016 05:43:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why upgrading to Windows 10 is less alarming than it used to be]]></title>
-            <description><![CDATA[<article><h1>Why upgrading to Windows 10 is less alarming than it used to be</h1><p>Eldon asked whether he should upgrade to Windows 10. My short answer: If you're using Windows 8.1, probably yes. If you're using Windows 7, probably no. But of course it's much more complicated than that. Last July, I recommended that people wait at least three months before accepting Microsoft's free upgrade.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5be43a2e03fcbb497db511430d0d3f40a999dd86.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Why upgrading to Windows 10 is less alarming than it used to be</h1><p>Eldon asked whether he should upgrade to Windows 10. My short answer: If you're using Windows 8.1, probably yes. If you're using Windows 7, probably no. But of course it's much more complicated than that. Last July, I recommended that people wait at least three months before accepting Microsoft's free upgrade.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc0361360286914ed80c5994e921fa6d81050f44.png"></article>]]></description>
             <link>http://www.pcworld.com/article/3020222/windows/why-upgrading-to-windows-10-is-less-alarming-than-it-used-to-be.html</link>
             <guid isPermaLink="false">42243941-0154-4039-a879-d935984eec63</guid>
             <pubDate>Mon, 01 Feb 2016 05:43:22 GMT</pubDate>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Verizon FiOS default speed now 50Mbps-double FCC's broadband definition</h1><p>Despite claiming that the government's definition of "broadband" shouldn't have been increased to 25Mbps,Verizon is now phasing out its 25Mbps fiber service and making 50Mbps the default minimum. A year ago, the Federal Communications Commission voted to boost the definition of broadband from 4Mbps downstream/1Mbps upstream to 25Mbps/3Mbps.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39475440e7b803627ddd206221b93bc3ed37d5fe.jpg"></article>]]></description>
             <link>http://arstechnica.com/business/2016/01/verizon-fios-default-speed-now-50mbps-double-fccs-broadband-definition/</link>
             <guid isPermaLink="false">b550e74d-4dd8-42fb-9c06-f32021148d19</guid>
+            <pubDate>Mon, 01 Feb 2016 05:42:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Valve VR: Up Close With the New HTC Vive Pre - IGN]]></title>
+            <description><![CDATA[<article><h1>Valve VR: Up Close With the New HTC Vive Pre - IGN</h1><p>More compact headset featuring front-mounted camera. Valve has given an opportunity to get a closer look at a near-final model of HTC's upcoming Vive Pre, a VR system design for developers. The Vive Pre sports a front-facing camera intended to be used to blend physical elements of the real-world with the virtual world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6949c16bb1e81658b123078a68bdceadba1ddb92.jpg"></article>]]></description>
+            <link>http://www.ign.com/articles/2016/01/27/valve-vr-up-close-with-the-new-htc-vive-pre</link>
+            <guid isPermaLink="false">bd9c1ca5-6f9b-441e-9f6a-8e87c5fc198a</guid>
             <pubDate>Mon, 01 Feb 2016 05:42:51 GMT</pubDate>
         </item>
     </channel>
