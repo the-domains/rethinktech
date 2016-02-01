@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Technology.Gaming.Life]]></title>
         <description><![CDATA[Technology.Gaming.Life]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rethinktech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 05:52:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Feb 2016 05:52:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rethinktech/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Final Fantasy 15 Character Revealed, Release Date Event Details Confirmed - IGN]]></title>
+            <description><![CDATA[<article><h1>New Final Fantasy 15 Character Revealed, Release Date Event Details Confirmed - IGN</h1><p>You can meet Aranea Highwind today, but you'll have to wait until March for a release date. During an Active Time Report for Final Fantasy XV tonight, director Hajime Tabata and marketing manager Akio Ofuji introduced a new character: Aranea Highwind.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f64ca8b9ad64bad4e9e5962eed1734f252532f7f.jpg"></article>]]></description>
+            <link>http://www.ign.com/articles/2016/01/31/new-final-fantasy-15-character-revealed-release-date-event-details-confirmed</link>
+            <guid isPermaLink="false">93bd3682-852d-4443-a1a8-db1e52f7fbc0</guid>
+            <pubDate>Mon, 01 Feb 2016 05:41:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Amazon Likely Working On Spotify-Like Music Streaming Service]]></title>
-            <description><![CDATA[<article><h1>Amazon Likely Working On Spotify-Like Music Streaming Service</h1><p>Amazon's been more than a bookstore for quite awhile, but not it appears as if it's turning its eyes (or ears) towards the now-popular streaming music industry. Amazon has sold music for a while, of course, via its Prime service, but the amount of content available is literally a small fraction [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9333de3dd28d53fb78d87f2c285aac8a5bd99dd.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Amazon Likely Working On Spotify-Like Music Streaming Service</h1><p>Amazon's been more than a bookstore for quite awhile, but not it appears as if it's turning its eyes (or ears) towards the now-popular streaming music industry. Amazon has sold music for a while, of course, via its Prime service, but the amount of content available is literally a small fraction [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5309d9959171cb1e9020db1983fcce2f60233ccc.jpg"></article>]]></description>
             <link>http://www.forbes.com/sites/matthickey/2016/01/31/amazon-likely-working-on-spotify-like-music-streaming-service/#1ef4fdd5455e</link>
             <guid isPermaLink="false">70a53842-90a1-4c11-9f03-0df9be04d759</guid>
             <pubDate>Mon, 01 Feb 2016 05:41:22 GMT</pubDate>
