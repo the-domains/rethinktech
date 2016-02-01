@@ -4,18 +4,11 @@
         <description><![CDATA[Technology.Gaming.Life]]></description>
         <link>https://thegrid.ai/rethinktech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 05:54:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2016 05:54:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rethinktech/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Two Final Fantasy Legends Now Working On A Mobile Strategy Game]]></title>
-            <description><![CDATA[<article><h1>Two Final Fantasy Legends Now Working On A Mobile Strategy Game</h1><p>Yoshitaka Amano is famous for his art. Nobuo Uematsu is famous for his Final Fantasy music. The two are back working together on a new game, only instead of it being a JRPG, it's an "an esports-driven mobile title". http://kotaku.com/5917619/the-be... Say the name "Yoshitaka Amano" to a longtime Final Fantasy fan and they may well go all...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3dd6dc32727c69ee635094ae0a19decd51ac4b4.jpg"></article>]]></description>
-            <link>http://kotaku.com/two-final-fantasy-legends-now-working-on-a-mobile-strat-1755818658</link>
-            <guid isPermaLink="false">20acdbd1-3704-47b7-a5b9-c595cf70cf77</guid>
-            <pubDate>Mon, 01 Feb 2016 05:43:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[VR headset showdown: HTC Vive vs Oculus Rift vs PlayStation VR]]></title>
-            <description><![CDATA[<article><h1>VR headset showdown: HTC Vive vs Oculus Rift vs PlayStation VR</h1><p>Virtual reality is undoubtedly one of the hot tech topics of the moment, with HTC (plus Valve), Oculus (owned by Facebook) and Sony all launching next-generation headsets at some point later this year. But what exactly are the differences between them?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fdc73524bf36b5d169e32b7b3ed52159f21bccb5.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>VR headset showdown: HTC Vive vs Oculus Rift vs PlayStation VR</h1><p>Virtual reality is undoubtedly one of the hot tech topics of the moment, with HTC (plus Valve), Oculus (owned by Facebook) and Sony all launching next-generation headsets at some point later this year. But what exactly are the differences between them?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/edf9859ad33fbdc61ae5c46b42a7b6d4976ccf37.jpg"></article>]]></description>
             <link>http://www.t3.com/news/vr-headset-showdown-htc-vive-vs-oculus-rift-vs-playstation-vr</link>
             <guid isPermaLink="false">78099334-55f6-4460-b71f-e59563f2e94c</guid>
             <pubDate>Mon, 01 Feb 2016 05:43:52 GMT</pubDate>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Apple Pay and Android Pay are coming to ATMs in the US this year</h1><p>Contactless ATMs have been available in countries like Spain and Canada for some time, but they haven't made their way to the US. That will soon change, thanks to the proliferation of mobile payment services like Apple Pay and Android Pay, banks have begun the process of bringing contactless ATM capabilities to the US.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed28f52216225d8bdaf0770cebec2fef01061fc9.jpg"></article>]]></description>
             <link>http://www.theverge.com/2016/1/28/10863914/apple-pay-android-pay-coming-to-atm-us-this-year</link>
             <guid isPermaLink="false">71381bf3-b29e-4550-b5d4-eff030ce8370</guid>
+            <pubDate>Mon, 01 Feb 2016 05:43:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why upgrading to Windows 10 is less alarming than it used to be]]></title>
+            <description><![CDATA[<article><h1>Why upgrading to Windows 10 is less alarming than it used to be</h1><p>Eldon asked whether he should upgrade to Windows 10. My short answer: If you're using Windows 8.1, probably yes. If you're using Windows 7, probably no. But of course it's much more complicated than that. Last July, I recommended that people wait at least three months before accepting Microsoft's free upgrade.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5be43a2e03fcbb497db511430d0d3f40a999dd86.png"></article>]]></description>
+            <link>http://www.pcworld.com/article/3020222/windows/why-upgrading-to-windows-10-is-less-alarming-than-it-used-to-be.html</link>
+            <guid isPermaLink="false">42243941-0154-4039-a879-d935984eec63</guid>
             <pubDate>Mon, 01 Feb 2016 05:43:22 GMT</pubDate>
         </item>
     </channel>
