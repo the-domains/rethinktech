@@ -1,7 +1,7 @@
 name: RethinkTech
 favicon: null
-layout_spectrum: 0.25949
-typography_spectrum: 0.52956
+layout_spectrum: 0.19326
+typography_spectrum: 0.63913
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#0f405f'
     - '#929292'
     - '#01afdc'
-  brandStrength: 0.875
-  lightness: 0.25
-  saturation: 0
-  rhythmicContrast: 0.971217
+  brandStrength: 0.25
+  lightness: 0.4375
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
