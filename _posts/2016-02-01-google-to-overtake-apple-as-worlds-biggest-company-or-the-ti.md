@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.thetimes.co.uk/tto/technology/article4679143.ece'
 title: "Google to overtake Apple as world's biggest company | The Times"
-datePublished: '2016-02-01T05:43:52.901Z'
-dateModified: '2016-02-01T05:19:52.019Z'
+datePublished: '2016-02-01T05:43:52.959Z'
+dateModified: '2016-02-01T05:18:50.464Z'
 sourcePath: _posts/2016-02-01-google-to-overtake-apple-as-worlds-biggest-company-or-the-ti.md
 published: true
 inFeed: true
