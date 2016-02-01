@@ -1,20 +1,4 @@
-name: RethinkTech
-favicon: null
-layout_spectrum: 0.25949
-typography_spectrum: 0.52956
-title: Technology.Gaming.Life
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#ffffff'
@@ -24,6 +8,11 @@ color:
     - '#5ebbde'
   brandStrength: 0.875
   lightness: 0.25
+  rhythmicContrast: 0.971217
   saturation: 0.6875
-  rhythmicContrast: 0.75
+cta: {}
+layout_spectrum: 0.25949
+name: RethinkTech
+opengraph: {}
 purpose: []
+typography_spectrum: 0.52956
